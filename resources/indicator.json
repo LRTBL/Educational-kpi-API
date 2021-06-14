@@ -1,0 +1,620 @@
+{
+    "SP.POP.1564.TO.ZS": {
+        "title": "Población de 15 a 64 años (% de la población total)",
+        "description": "Población total entre las edades de 15 a 64 años como porcentaje de la población total. La población se basa en la definición de facto de población, que cuenta a todos los residentes independientemente de su estado legal o ciudadanía."
+    },
+    "SP.POP.0014.TO.ZS": {
+        "title": "Población de 0 a 14 años (% de la población total)",
+        "description": "Población de 0 a 14 años como porcentaje de la población total. La población se basa en la definición de facto de población."
+    },
+    "SL.UEM.TOTL.ZS": {
+        "title": "Desempleo, total (% de la fuerza laboral total) (estimación modelada de la OIT)",
+        "description": "El desempleo se refiere a la proporción de la fuerza laboral que no tiene trabajo pero que está disponible y en busca de empleo."
+    },
+    "SL.UEM.TOTL.MA.ZS": {
+        "title": "Desempleo, hombres (% de la fuerza laboral masculina) (estimación modelada de la OIT)",
+        "description": "El desempleo se refiere a la proporción de la fuerza laboral que no tiene trabajo pero que está disponible y en busca de empleo."
+    },
+    "SL.UEM.TOTL.FE.ZS": {
+        "title": "Desempleo, mujeres (% de la fuerza laboral femenina) (estimación modelada de la OIT)",
+        "description": "El desempleo se refiere a la proporción de la fuerza laboral que no tiene trabajo pero que está disponible y en busca de empleo."
+    },
+    "SL.TLF.TOTL.IN": {
+        "title": "Mano de obra, total",
+        "description": "La fuerza laboral comprende personas de 15 años o más que proporcionan mano de obra para la producción de bienes y servicios durante un período específico. Incluye a las personas que están empleadas actualmente y a las personas que están desempleadas pero que buscan trabajo, así como a las personas que buscan trabajo por primera vez. Sin embargo, no todos los que trabajan están incluidos. Los trabajadores no remunerados, los trabajadores familiares y los estudiantes a menudo se omiten, y algunos países no cuentan a los miembros de las fuerzas armadas. El tamaño de la fuerza laboral tiende a variar durante el año a medida que los trabajadores estacionales entran y salen."
+    },
+    "SL.TLF.TOTL.FE.ZS": {
+        "title": "Fuerza laboral, mujeres (% de la fuerza laboral total)",
+        "description": "La población activa femenina como porcentaje del total muestra el grado de actividad de las mujeres en la población activa. La fuerza laboral comprende personas de 15 años o más que proporcionan mano de obra para la producción de bienes y servicios durante un período específico."
+    },
+    "SH.DYN.2024": {
+        "title": "Probabilidad de morir entre los jóvenes de 20 a 24 años (por cada 1000)",
+        "description": "Probabilidad de morir entre los 20 y los 24 años de edad expresada por cada 1000 jóvenes de 20 años, si está sujeta a las tasas de mortalidad específicas por edad del año especificado."
+    },
+    "SH.DYN.1519": {
+        "title": "Probabilidad de morir entre los adolescentes de 15 a 19 años (por cada 1000)",
+        "description": "Probabilidad de morir entre los 15 y los 19 años de edad expresada por cada 1000 adolescentes de 15 años, si está sujeta a las tasas de mortalidad específicas por edad del año especificado."
+    },
+    "SH.DYN.1014": {
+        "title": "Probabilidad de morir entre los adolescentes de 10 a 14 años (por cada 1000)",
+        "description": "Probabilidad de morir entre los 10 y los 14 años de edad expresada por cada 1000 adolescentes de 10 años, si está sujeta a las tasas de mortalidad específicas por edad del año especificado."
+    },
+    "SH.DYN.0509": {
+        "title": "Probabilidad de morir entre los niños de 5 a 9 años (por cada 1000)",
+        "description": "Probabilidad de morir entre los 5 y los 9 años de edad expresada por cada 1000 niños de 5 años, si está sujeta a las tasas de mortalidad específicas por edad del año especificado."
+    },
+    "SH.DTH.2024": { "title": "Número de muertes entre los 20 y los 24 años", "description": "Número de muertes de jóvenes de 20 a 24 años" },
+    "SH.DTH.1519": { "title": "Número de muertes entre 15 y 19 años", "description": "Número de muertes de adolescentes de 15 a 19 años" },
+    "SH.DTH.1014": { "title": "Número de muertes de 10 a 14 años", "description": "Número de muertes de adolescentes de 10 a 14 años" },
+    "SH.DTH.0509": { "title": "Número de muertes entre las edades de 5-9 años", "description": "Número de muertes de niños de 5 a 9 años" },
+    "SE.XPD.TOTL.GD.ZS": {
+        "title": "Gasto público en educación, total (% del PIB)",
+        "description": "El gasto del gobierno general en educación (corriente, capital y transferencias) se expresa como porcentaje del PIB. Incluye gastos financiados por transferencias de fuentes internacionales al gobierno. El gobierno general generalmente se refiere a los gobiernos locales, regionales y centrales."
+    },
+    "SE.XPD.TOTL.GB.ZS": {
+        "title": "Gasto público en educación, total (% del gasto público)",
+        "description": "El gasto del gobierno general en educación (corriente, capital y transferencias) se expresa como un porcentaje del gasto total del gobierno general en todos los sectores (incluidos salud, educación, servicios sociales, etc.). Incluye gastos financiados por transferencias de fuentes internacionales al gobierno. El gobierno general generalmente se refiere a los gobiernos locales, regionales y centrales."
+    },
+    "SE.XPD.TERT.ZS": {
+        "title": "Gasto en educación terciaria (% del gasto público en educación)",
+        "description": "El gasto en educación terciaria se expresa como un porcentaje del gasto total del gobierno general en educación. El gobierno general generalmente se refiere a los gobiernos locales, regionales y centrales."
+    },
+    "SE.XPD.TERT.PC.ZS": {
+        "title": "Gasto público por estudiante, terciario (% del PIB per cápita)",
+        "description": "El gasto público por estudiante es el gasto público general promedio (corriente, capital y transferencias) por estudiante en el nivel educativo dado, expresado como porcentaje del PIB per cápita."
+    },
+    "SE.XPD.SECO.ZS": {
+        "title": "Gasto en educación secundaria (% del gasto público en educación)",
+        "description": "El gasto en educación secundaria se expresa como porcentaje del gasto total del gobierno general en educación. El gobierno general generalmente se refiere a los gobiernos locales, regionales y centrales."
+    },
+    "SE.XPD.SECO.PC.ZS": {
+        "title": "Gasto público por estudiante, secundaria (% del PIB per cápita)",
+        "description": "El gasto público por estudiante es el gasto público general promedio (corriente, capital y transferencias) por estudiante en el nivel educativo dado, expresado como porcentaje del PIB per cápita."
+    },
+    "SE.XPD.PRIM.ZS": {
+        "title": "Gasto en educación primaria (% del gasto público en educación)",
+        "description": "El gasto en educación primaria se expresa como porcentaje del gasto total del gobierno general en educación. El gobierno general generalmente se refiere a los gobiernos locales, regionales y centrales."
+    },
+    "SE.XPD.PRIM.PC.ZS": {
+        "title": "Gasto público por alumno, primaria (% del PIB per cápita)",
+        "description": "El gasto público por estudiante es el gasto público general promedio (corriente, capital y transferencias) por estudiante en el nivel educativo dado, expresado como porcentaje del PIB per cápita."
+    },
+    "SE.XPD.CTOT.ZS": {
+        "title": "Gasto corriente en educación, total (% del gasto total en instituciones públicas)",
+        "description": "El gasto corriente se expresa como un porcentaje del gasto directo en las instituciones educativas públicas (instructivas y no instructivas) del nivel de educación especificado. Las ayudas económicas a estudiantes y otras transferencias están excluidas de los gastos directos. Los gastos corrientes se consumen dentro del año en curso y tendrían que renovarse si es necesario en el año siguiente. Incluye la retribución del personal y los gastos corrientes distintos de la retribución del personal (por ejemplo, material didáctico, servicios auxiliares y administración)."
+    },
+    "SE.XPD.CTER.ZS": {
+        "title": "Gasto corriente en educación, terciario (% del gasto total en instituciones públicas de terciaria)",
+        "description": "El gasto corriente se expresa como un porcentaje del gasto directo en las instituciones educativas públicas (instructivas y no instructivas) del nivel de educación especificado. Las ayudas económicas a estudiantes y otras transferencias están excluidas de los gastos directos. Los gastos corrientes se consumen dentro del año en curso y tendrían que renovarse si es necesario en el año siguiente. Incluye la retribución del personal y los gastos corrientes distintos de la retribución del personal (por ejemplo, material didáctico, servicios auxiliares y administración)."
+    },
+    "SE.XPD.CSEC.ZS": {
+        "title": "Gasto corriente en educación secundaria (% del gasto total en instituciones públicas secundarias)",
+        "description": "El gasto corriente se expresa como un porcentaje del gasto directo en las instituciones educativas públicas (instructivas y no instructivas) del nivel de educación especificado. Las ayudas económicas a estudiantes y otras transferencias están excluidas de los gastos directos. Los gastos corrientes se consumen dentro del año en curso y tendrían que renovarse si es necesario en el año siguiente. Incluye la retribución del personal y los gastos corrientes distintos de la retribución del personal (por ejemplo, material didáctico, servicios auxiliares y administración)."
+    },
+    "SE.XPD.CPRM.ZS": {
+        "title": "Gasto corriente en educación primaria (% del gasto total en instituciones públicas primarias)",
+        "description": "El gasto corriente se expresa como un porcentaje del gasto directo en las instituciones educativas públicas (instructivas y no instructivas) del nivel de educación especificado. Las ayudas económicas a estudiantes y otras transferencias están excluidas de los gastos directos. Los gastos corrientes se consumen dentro del año en curso y tendrían que renovarse si es necesario en el año siguiente. Incluye la retribución del personal y los gastos corrientes distintos de la retribución del personal (por ejemplo, material didáctico, servicios auxiliares y administración)."
+    },
+    "SE.TER.TCHR.FE.ZS": {
+        "title": "Educación terciaria, personal académico (% mujeres)",
+        "description": "Educación terciaria, personal académico (% de mujeres) es la proporción de personal académico femenino en la educación terciaria."
+    },
+    "SE.TER.ENRR.MA": {
+        "title": "Matrícula escolar, terciaria, hombres (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación terciaria, sea o no para un título de investigación avanzada, normalmente requiere, como condición mínima de admisión, la finalización exitosa de la educación en el nivel secundario."
+    },
+    "SE.TER.ENRR.FE": {
+        "title": "Matrícula escolar, terciaria, mujeres (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación terciaria, sea o no para un título de investigación avanzada, normalmente requiere, como condición mínima de admisión, la finalización exitosa de la educación en el nivel secundario."
+    },
+    "SE.TER.ENRR": {
+        "title": "Matrícula escolar, terciaria (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación terciaria, sea o no para un título de investigación avanzada, normalmente requiere, como condición mínima de admisión, la finalización exitosa de la educación en el nivel secundario."
+    },
+    "SE.TER.ENRL.TC.ZS": {
+        "title": "Proporción alumno-maestro, terciario",
+        "description": "La relación alumno-maestro de la escuela terciaria es el número medio de alumnos por maestro en la escuela terciaria."
+    },
+    "SE.TER.CUAT.ST.ZS": {
+        "title": "Nivel educativo, al menos terciario de ciclo corto completado, población de más de 25 años, total (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que logró o completó la educación terciaria de ciclo corto."
+    },
+    "SE.TER.CUAT.ST.MA.ZS": {
+        "title": "Nivel educativo, al menos terciario de ciclo corto completado, población de más de 25 años, hombres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que logró o completó la educación terciaria de ciclo corto."
+    },
+    "SE.TER.CUAT.ST.FE.ZS": {
+        "title": "Nivel educativo, al menos terciario de ciclo corto completado, población de más de 25 años, mujeres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que logró o completó la educación terciaria de ciclo corto."
+    },
+    "SE.TER.CUAT.MS.ZS": {
+        "title": "Nivel educativo, al menos maestría o equivalente, población mayor de 25 años, total (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que obtuvo o completó una maestría o equivalente."
+    },
+    "SE.TER.CUAT.MS.MA.ZS": {
+        "title": "Nivel educativo, al menos maestría o equivalente, población mayor de 25 años, hombres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que obtuvo o completó una maestría o equivalente."
+    },
+    "SE.TER.CUAT.MS.FE.ZS": {
+        "title": "Nivel educativo, al menos maestría o equivalente, población mayor de 25 años, mujeres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que obtuvo o completó una maestría o equivalente."
+    },
+    "SE.TER.CUAT.DO.ZS": {
+        "title": "Nivel educativo, doctorado o equivalente, población mayor de 25 años, total (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que obtuvo o completó un doctorado o equivalente."
+    },
+    "SE.TER.CUAT.DO.MA.ZS": {
+        "title": "Nivel educativo, doctorado o equivalente, población mayor de 25 años, hombres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que obtuvo o completó un doctorado o equivalente."
+    },
+    "SE.TER.CUAT.DO.FE.ZS": {
+        "title": "Nivel educativo, doctorado o equivalente, población mayor de 25 años, mujeres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que obtuvo o completó un doctorado o equivalente."
+    },
+    "SE.TER.CUAT.BA.ZS": {
+        "title": "Nivel educativo, al menos licenciatura o equivalente, población mayor de 25 años, total (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que obtuvo o completó una licenciatura o equivalente."
+    },
+    "SE.TER.CUAT.BA.MA.ZS": {
+        "title": "Nivel educativo, al menos licenciatura o equivalente, población mayor de 25 años, hombres (%) (acumulativo)",
+        "description": "El porcentaje de la población de 25 años o más que obtuvo o completó una licenciatura o equivalente."
+    },
+    "SE.TER.CUAT.BA.FE.ZS": {
+        "title": "Nivel educativo, al menos licenciatura o equivalente, población de más de 25 años, mujeres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que obtuvo o completó una licenciatura o equivalente."
+    },
+    "SE.SEC.UNER.LO.ZS": {
+        "title": "Adolescentes no escolarizados (% en edad de cursar la secundaria inferior)",
+        "description": "Los adolescentes no escolarizados son el porcentaje de adolescentes en edad de cursar la secundaria inferior que no están matriculados en la escuela."
+    },
+    "SE.SEC.UNER.LO.MA.ZS": {
+        "title": "Adolescentes no escolarizados, varones (% de varones en edad de cursar la secundaria inferior)",
+        "description": "Los adolescentes no escolarizados son el porcentaje de adolescentes en edad de cursar la secundaria inferior que no están matriculados en la escuela."
+    },
+    "SE.SEC.UNER.LO.FE.ZS": {
+        "title": "Adolescentes sin escolarizar, mujeres (% de mujeres en edad de cursar la secundaria inferior)",
+        "description": "Los adolescentes no escolarizados son el porcentaje de adolescentes en edad de cursar la secundaria inferior que no están matriculados en la escuela."
+    },
+    "SE.SEC.TCHR.FE.ZS": {
+        "title": "Educación secundaria, profesores (% mujeres)",
+        "description": "Las maestras como porcentaje del total de maestros de educación secundaria incluyen a los maestros a tiempo completo y a tiempo parcial."
+    },
+    "SE.SEC.TCHR.FE": { "title": "Educación secundaria, maestras, mujeres", "description": "Los profesores de educación secundaria incluyen profesores a tiempo completo y a tiempo parcial." },
+    "SE.SEC.TCHR": { "title": "Educación secundaria, profesores", "description": "Los profesores de educación secundaria incluyen profesores a tiempo completo y a tiempo parcial." },
+    "SE.SEC.TCAQ.ZS": {
+        "title": "Docentes capacitados en educación secundaria (% del total de docentes)",
+        "description": "Los docentes formados en educación secundaria son el porcentaje de docentes de secundaria que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.SEC.TCAQ.UP.ZS": {
+        "title": "Docentes capacitados en educación secundaria superior (% del total de docentes)",
+        "description": "Los docentes formados en la educación secundaria superior son el porcentaje de docentes de la escuela secundaria superior que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.SEC.TCAQ.UP.MA.ZS": {
+        "title": "Profesores formados en educación secundaria superior, hombres (% de profesores varones)",
+        "description": "Los docentes formados en la educación secundaria superior son el porcentaje de docentes de la escuela secundaria superior que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.SEC.TCAQ.UP.FE.ZS": {
+        "title": "Profesores formados en educación secundaria superior, mujeres (% de profesoras)",
+        "description": "Los docentes formados en la educación secundaria superior son el porcentaje de docentes de la escuela secundaria superior que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.SEC.TCAQ.MA.ZS": {
+        "title": "Docentes formados en educación secundaria, hombres (% de profesores varones)",
+        "description": "Los docentes formados en educación secundaria son el porcentaje de docentes de secundaria que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.SEC.TCAQ.LO.ZS": {
+        "title": "Docentes capacitados en educación secundaria inferior (% del total de docentes)",
+        "description": "Los docentes formados en la educación secundaria inferior son el porcentaje de docentes de la escuela secundaria inferior que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.SEC.TCAQ.LO.MA.ZS": {
+        "title": "Docentes capacitados en educación secundaria inferior, hombres (% de docentes hombres)",
+        "description": "Los docentes formados en la educación secundaria inferior son el porcentaje de docentes de la escuela secundaria inferior que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.SEC.TCAQ.LO.FE.ZS": {
+        "title": "Profesores formados en la educación secundaria inferior, mujeres (% de profesoras)",
+        "description": "Los docentes formados en la educación secundaria inferior son el porcentaje de docentes de la escuela secundaria inferior que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.SEC.TCAQ.FE.ZS": {
+        "title": "Profesoras formadas en educación secundaria, mujeres (% de profesoras)",
+        "description": "Los docentes formados en educación secundaria son el porcentaje de docentes de secundaria que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.SEC.PROG.ZS": {
+        "title": "Progresión a la escuela secundaria (%)",
+        "description": "La progresión a la escuela secundaria se refiere al número de nuevos ingresados ​​al primer grado de la escuela secundaria en un año dado como porcentaje del número de estudiantes matriculados en el último grado de la escuela primaria en el año anterior (menos el número de repetidores de la escuela secundaria). último grado de educación primaria del año en cuestión)."
+    },
+    "SE.SEC.PROG.MA.ZS": {
+        "title": "Progresión a la escuela secundaria, hombres (%)",
+        "description": "La progresión a la escuela secundaria se refiere al número de nuevos ingresados ​​al primer grado de la escuela secundaria en un año dado como porcentaje del número de estudiantes matriculados en el último grado de la escuela primaria en el año anterior (menos el número de repetidores de la escuela secundaria). último grado de educación primaria en el año en cuestión)."
+    },
+    "SE.SEC.PROG.FE.ZS": {
+        "title": "Progresión a la escuela secundaria, mujer (%)",
+        "description": "La progresión a la escuela secundaria se refiere al número de nuevos ingresados ​​al primer grado de la escuela secundaria en un año dado como porcentaje del número de estudiantes matriculados en el último grado de la escuela primaria en el año anterior (menos el número de repetidores de la escuela secundaria). último grado de educación primaria en el año en cuestión)."
+    },
+    "SE.SEC.PRIV.ZS": {
+        "title": "Matrícula escolar, secundaria, privada (% del total de secundaria)",
+        "description": "La matrícula privada se refiere a los alumnos o estudiantes matriculados en instituciones que no son operadas por una autoridad pública, pero controladas y administradas, con o sin fines de lucro, por un organismo privado como una organización no gubernamental, organismo religioso, grupo de interés especial, fundación o empresa comercial. ."
+    },
+    "SE.SEC.NENR.MA": {
+        "title": "Matrícula escolar, secundaria, hombres (% neto)",
+        "description": "La tasa neta de matriculación es la relación entre los niños en edad escolar oficial que están matriculados en la escuela y la población en edad escolar oficial correspondiente. La educación secundaria completa la provisión de educación básica que comenzó en el nivel primario y tiene como objetivo sentar las bases para el aprendizaje permanente y el desarrollo humano, ofreciendo una instrucción más orientada a materias o habilidades utilizando maestros más especializados."
+    },
+    "SE.SEC.NENR.FE": {
+        "title": "Matrícula escolar, secundaria, mujeres (% neto)",
+        "description": "La tasa neta de matriculación es la relación entre los niños en edad escolar oficial que están matriculados en la escuela y la población en edad escolar oficial correspondiente. La educación secundaria completa la provisión de educación básica que comenzó en el nivel primario y tiene como objetivo sentar las bases para el aprendizaje permanente y el desarrollo humano, ofreciendo una instrucción más orientada a materias o habilidades utilizando maestros más especializados."
+    },
+    "SE.SEC.NENR": {
+        "title": "Matrícula escolar, secundaria (% neto)",
+        "description": "La tasa neta de matriculación es la relación entre los niños en edad escolar oficial que están matriculados en la escuela y la población en edad escolar oficial correspondiente. La educación secundaria completa la provisión de educación básica que comenzó en el nivel primario y tiene como objetivo sentar las bases para el aprendizaje permanente y el desarrollo humano, ofreciendo una instrucción más orientada a materias o habilidades utilizando maestros más especializados."
+    },
+    "SE.SEC.ENRR.MA": {
+        "title": "Matrícula escolar, secundaria, hombres (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación secundaria completa la provisión de educación básica que comenzó en el nivel primario y tiene como objetivo sentar las bases para el aprendizaje permanente y el desarrollo humano, ofreciendo una instrucción más orientada a materias o habilidades utilizando maestros más especializados."
+    },
+    "SE.SEC.ENRR.FE": {
+        "title": "Matrícula escolar, secundaria, mujeres (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación secundaria completa la provisión de educación básica que comenzó en el nivel primario y tiene como objetivo sentar las bases para el aprendizaje permanente y el desarrollo humano, ofreciendo una instrucción más orientada a materias o habilidades utilizando maestros más especializados."
+    },
+    "SE.SEC.ENRR": {
+        "title": "Matrícula escolar, secundaria (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación secundaria completa la provisión de educación básica que comenzó en el nivel primario y tiene como objetivo sentar las bases para el aprendizaje permanente y el desarrollo humano, ofreciendo una instrucción más orientada a materias o habilidades utilizando maestros más especializados."
+    },
+    "SE.SEC.ENRL.VO.FE.ZS": {
+        "title": "Educación secundaria, alumnos de formación profesional (% mujeres)",
+        "description": "Los alumnos de secundaria vocacional son el número de estudiantes de secundaria matriculados en programas de educación técnica y vocacional, incluida la formación de profesores."
+    },
+    "SE.SEC.ENRL.VO": {
+        "title": "Educación secundaria, alumnos de formación profesional",
+        "description": "Los alumnos de secundaria vocacional son el número de estudiantes de secundaria matriculados en programas de educación técnica y vocacional, incluida la formación de profesores."
+    },
+    "SE.SEC.ENRL.UP.TC.ZS": {
+        "title": "Proporción alumno-profesor, secundaria superior",
+        "description": "La proporción de alumnos por maestro de la escuela secundaria superior es el número medio de alumnos por maestro en la escuela secundaria superior."
+    },
+    "SE.SEC.ENRL.TC.ZS": {
+        "title": "Proporción alumno-profesor, secundaria",
+        "description": "La proporción de alumnos por maestro en la escuela secundaria es el número promedio de alumnos por maestro en la escuela secundaria."
+    },
+    "SE.SEC.ENRL.LO.TC.ZS": {
+        "title": "Proporción alumno-profesor, primer ciclo de secundaria",
+        "description": "La proporción de alumnos por maestro en la escuela secundaria inferior es el número medio de alumnos por maestro en la escuela secundaria inferior."
+    },
+    "SE.SEC.ENRL.GC.FE.ZS": {
+        "title": "Educación secundaria, alumnos en general (% mujeres)",
+        "description": "Los alumnos de secundaria general son el número de estudiantes de secundaria matriculados en programas de educación general, incluida la formación de profesores."
+    },
+    "SE.SEC.ENRL.GC": {
+        "title": "Educación secundaria, alumnos en general",
+        "description": "Los alumnos de secundaria general son el número de estudiantes de secundaria matriculados en programas de educación general, incluida la formación de profesores."
+    },
+    "SE.SEC.ENRL.FE.ZS": {
+        "title": "Educación secundaria, alumnos (% mujeres)",
+        "description": "El porcentaje de alumnas como porcentaje del total de alumnos en el nivel secundario incluye la matrícula en escuelas públicas y privadas."
+    },
+    "SE.SEC.ENRL": {
+        "title": "Educación secundaria, alumnos",
+        "description": "Alumnos de educación secundaria es el número total de alumnos matriculados en el nivel secundario en escuelas públicas y privadas."
+    },
+    "SE.SEC.DURS": { "title": "Educación secundaria, duración (años)", "description": "La duración de la secundaria se refiere al número de grados (años) en la escuela secundaria." },
+    "SE.SEC.CUAT.UP.ZS": {
+        "title": "Nivel educativo, al menos secundaria superior completada, población de más de 25 años, total (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que alcanzó o completó la educación secundaria superior."
+    },
+    "SE.SEC.CUAT.UP.MA.ZS": {
+        "title": "Nivel educativo, al menos secundaria superior completa, población de más de 25 años, hombres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que alcanzó o completó la educación secundaria superior."
+    },
+    "SE.SEC.CUAT.UP.FE.ZS": {
+        "title": "Nivel educativo, al menos secundaria superior completa, población de más de 25 años, mujeres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que alcanzó o completó la educación secundaria superior."
+    },
+    "SE.SEC.CUAT.PO.ZS": {
+        "title": "Nivel educativo, al menos estudios postsecundarios completos, población de más de 25 años, total (%) (acumulativo)",
+        "description": "El porcentaje de la población de 25 años o más que logró o completó la educación postsecundaria no terciaria."
+    },
+    "SE.SEC.CUAT.PO.MA.ZS": {
+        "title": "Nivel educativo, al menos estudios postsecundarios completos, población de más de 25 años, hombres (%) (acumulativo)",
+        "description": "El porcentaje de la población de 25 años o más que logró o completó la educación postsecundaria no terciaria."
+    },
+    "SE.SEC.CUAT.PO.FE.ZS": {
+        "title": "Nivel educativo, al menos estudios postsecundarios completos, población de más de 25 años, mujeres (%) (acumulativo)",
+        "description": "El porcentaje de la población de 25 años o más que logró o completó la educación postsecundaria no terciaria."
+    },
+    "SE.SEC.CUAT.LO.ZS": {
+        "title": "Nivel educativo, al menos secundaria inferior completa, población de más de 25 años, total (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que alcanzó o completó la educación secundaria inferior."
+    },
+    "SE.SEC.CUAT.LO.MA.ZS": {
+        "title": "Nivel educativo, al menos secundaria inferior completa, población de más de 25 años, hombres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que alcanzó o completó la educación secundaria inferior."
+    },
+    "SE.SEC.CUAT.LO.FE.ZS": {
+        "title": "Nivel educativo, al menos secundaria inferior completa, población de más de 25 años, mujeres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que alcanzó o completó la educación secundaria inferior."
+    },
+    "SE.SEC.CMPT.LO.ZS": {
+        "title": "Tasa de finalización de la educación secundaria inferior, total (% del grupo de edad pertinente)",
+        "description": "La tasa de finalización de la educación secundaria inferior se mide como la tasa bruta de ingreso al último grado de la educación secundaria inferior (general y preprofesional). Se calcula como el número de nuevos ingresos en el último grado de la educación secundaria inferior, independientemente de la edad, dividido por la población en edad de ingreso al último grado de la educación secundaria inferior."
+    },
+    "SE.SEC.CMPT.LO.MA.ZS": {
+        "title": "Tasa de finalización de la educación secundaria inferior, hombres (% del grupo de edad relevante)",
+        "description": "La tasa de finalización de la educación secundaria inferior se mide como la tasa bruta de ingreso al último grado de la educación secundaria inferior (general y preprofesional). Se calcula como el número de nuevos ingresos en el último grado de la educación secundaria inferior, independientemente de la edad, dividido por la población en edad de ingreso al último grado de la educación secundaria inferior."
+    },
+    "SE.SEC.CMPT.LO.FE.ZS": {
+        "title": "Tasa de finalización de la educación secundaria inferior, mujeres (% del grupo de edad pertinente)",
+        "description": "La tasa de finalización de la educación secundaria inferior se mide como la tasa bruta de ingreso al último grado de la educación secundaria inferior (general y preprofesional). Se calcula como el número de nuevos ingresos en el último grado de la educación secundaria inferior, independientemente de la edad, dividido por la población en edad de ingresar al último grado de la educación secundaria inferior."
+    },
+    "SE.SEC.AGES": {
+        "title": "Edad de inicio de la escuela secundaria inferior (años)",
+        "description": "La edad de inicio de la escuela secundaria inferior es la edad a la que los estudiantes ingresarían a la educación secundaria inferior, suponiendo que hayan comenzado a la edad oficial de ingreso al nivel educativo más bajo, hayan estudiado a tiempo completo y hayan progresado en el sistema sin repetir o saltarse un calificación."
+    },
+    "SE.PRM.UNER.ZS": {
+        "title": "Niños no escolarizados (% en edad escolar primaria)",
+        "description": "Los niños no escolarizados son el porcentaje de niños en edad escolar primaria que no están matriculados en la escuela primaria o secundaria. Los niños en el grupo de edad oficial de primaria que están en educación preprimaria deben considerarse fuera de la escuela."
+    },
+    "SE.PRM.UNER.MA.ZS": {
+        "title": "Niños no escolarizados, varones (% de varones en edad escolar primaria)",
+        "description": "Los niños no escolarizados son el porcentaje de niños en edad escolar primaria que no están matriculados en la escuela primaria o secundaria. Los niños en el grupo de edad oficial de primaria que están en educación preprimaria deben considerarse fuera de la escuela."
+    },
+    "SE.PRM.UNER.MA": {
+        "title": "Niños fuera de la escuela, primaria, varones",
+        "description": "Los niños no escolarizados son el número de niños en edad escolar primaria que no están matriculados en la escuela primaria o secundaria."
+    },
+    "SE.PRM.UNER.FE.ZS": {
+        "title": "Niños no escolarizados, mujeres (% de mujeres en edad escolar primaria)",
+        "description": "Los niños no escolarizados son el porcentaje de niños en edad escolar primaria que no están matriculados en la escuela primaria o secundaria. Los niños en el grupo de edad oficial de primaria que están en educación preprimaria deben considerarse fuera de la escuela."
+    },
+    "SE.PRM.UNER.FE": {
+        "title": "Niños fuera de la escuela, primaria, mujeres",
+        "description": "Los niños no escolarizados son el número de niños en edad escolar primaria que no están matriculados en la escuela primaria o secundaria."
+    },
+    "SE.PRM.UNER": {
+        "title": "Niños fuera de la escuela, primaria",
+        "description": "Los niños no escolarizados son el número de niños en edad escolar primaria que no están matriculados en la escuela primaria o secundaria."
+    },
+    "SE.PRM.TENR.MA": {
+        "title": "Tasa neta ajustada de matriculación, primaria, hombres (% de niños en edad escolar primaria)",
+        "description": "La matrícula neta ajustada es el número de alumnos del grupo en edad escolar para la educación primaria, matriculados en la educación primaria o secundaria, expresado como porcentaje de la población total en ese grupo de edad."
+    },
+    "SE.PRM.TENR.FE": {
+        "title": "Tasa neta ajustada de matriculación, primaria, mujeres (% de niños en edad escolar primaria)",
+        "description": "La matrícula neta ajustada es el número de alumnos del grupo en edad escolar para la educación primaria, matriculados en la educación primaria o secundaria, expresado como porcentaje de la población total en ese grupo de edad."
+    },
+    "SE.PRM.TENR": {
+        "title": "Tasa neta ajustada de matriculación, primaria (% de niños en edad escolar primaria)",
+        "description": "La matrícula neta ajustada es el número de alumnos del grupo en edad escolar para la educación primaria, matriculados en la educación primaria o secundaria, expresado como porcentaje de la población total en ese grupo de edad."
+    },
+    "SE.PRM.TCHR.FE.ZS": {
+        "title": "Educación primaria, profesores (% mujeres)",
+        "description": "Las maestras como porcentaje del total de maestros de educación primaria incluyen a los maestros a tiempo completo y a tiempo parcial."
+    },
+    "SE.PRM.TCHR": { "title": "Educación primaria, profesores", "description": "Los profesores de educación primaria incluyen profesores a tiempo completo y a tiempo parcial." },
+    "SE.PRM.TCAQ.ZS": {
+        "title": "Docentes capacitados en educación primaria (% del total de docentes)",
+        "description": "Los docentes formados en educación primaria son el porcentaje de docentes de escuela primaria que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.PRM.TCAQ.MA.ZS": {
+        "title": "Maestros capacitados en educación primaria, hombres (% de maestros hombres)",
+        "description": "Los docentes formados en educación primaria son el porcentaje de docentes de escuela primaria que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.PRM.TCAQ.FE.ZS": {
+        "title": "Maestras capacitadas en educación primaria, mujeres (% de maestras)",
+        "description": "Los docentes formados en educación primaria son el porcentaje de docentes de escuela primaria que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.PRM.REPT.ZS": {
+        "title": "Repetidores, primaria, total (% de la matrícula total)",
+        "description": "Los repetidores en la escuela primaria son el número de estudiantes matriculados en el mismo grado que el año anterior, como porcentaje de todos los estudiantes matriculados en la escuela primaria."
+    },
+    "SE.PRM.REPT.MA.ZS": {
+        "title": "Repetidores, primario, masculino (% de matriculación masculina)",
+        "description": "Los repetidores en la escuela primaria son el número de estudiantes matriculados en el mismo grado que el año anterior, como porcentaje de todos los estudiantes matriculados en la escuela primaria."
+    },
+    "SE.PRM.REPT.FE.ZS": {
+        "title": "Repetidores, primaria, mujeres (% de matrícula femenina)",
+        "description": "Los repetidores en la escuela primaria son el número de estudiantes matriculados en el mismo grado que el año anterior, como porcentaje de todos los estudiantes matriculados en la escuela primaria."
+    },
+    "SE.PRM.PRSL.ZS": {
+        "title": "Persistencia hasta el último grado de primaria, total (% de la cohorte)",
+        "description": "La persistencia hasta el último grado de primaria es el porcentaje de niños matriculados en el primer grado de la escuela primaria que finalmente llegan al último grado de la educación primaria. La estimación se basa en el método de cohorte reconstruido."
+    },
+    "SE.PRM.PRSL.MA.ZS": {
+        "title": "Persistencia hasta el último grado de primaria, masculino (% de la cohorte)",
+        "description": "La persistencia hasta el último grado de primaria es el porcentaje de niños matriculados en el primer grado de la escuela primaria que finalmente llegan al último grado de la educación primaria. La estimación se basa en el método de cohorte reconstruido."
+    },
+    "SE.PRM.PRSL.FE.ZS": {
+        "title": "Persistencia hasta el último grado de primaria, femenino (% de la cohorte)",
+        "description": "La persistencia hasta el último grado de primaria es el porcentaje de niños matriculados en el primer grado de la escuela primaria que finalmente llegan al último grado de la educación primaria. La estimación se basa en el método de cohorte reconstruido."
+    },
+    "SE.PRM.PRS5.ZS": {
+        "title": "Persistencia al quinto grado, total (% de la cohorte)",
+        "description": "La persistencia hasta el quinto grado (porcentaje de la cohorte que llega al quinto grado) es la proporción de niños matriculados en el primer grado de la escuela primaria que finalmente llegan al quinto grado. La estimación se basa en el método de cohorte reconstruido."
+    },
+    "SE.PRM.PRS5.MA.ZS": {
+        "title": "Persistencia hasta el grado 5, masculino (% de la cohorte)",
+        "description": "La persistencia hasta el quinto grado (porcentaje de la cohorte que llega al quinto grado) es la proporción de niños matriculados en el primer grado de la escuela primaria que finalmente llegan al quinto grado. La estimación se basa en el método de cohorte reconstruido."
+    },
+    "SE.PRM.PRS5.FE.ZS": {
+        "title": "Persistencia hasta el quinto grado, mujeres (% de la cohorte)",
+        "description": "La persistencia hasta el quinto grado (porcentaje de la cohorte que llega al quinto grado) es la proporción de niños matriculados en el primer grado de la escuela primaria que finalmente llegan al quinto grado. La estimación se basa en el método de cohorte reconstruido."
+    },
+    "SE.PRM.PRIV.ZS": {
+        "title": "Matrícula escolar, primaria, privada (% del total de primaria)",
+        "description": "La matrícula privada se refiere a los alumnos o estudiantes matriculados en instituciones que no son operadas por una autoridad pública, pero controladas y administradas, con o sin fines de lucro, por un organismo privado como una organización no gubernamental, organismo religioso, grupo de interés especial, fundación o empresa comercial. ."
+    },
+    "SE.PRM.OENR.ZS": {
+        "title": "Estudiantes mayores de edad, primaria (% de matrícula)",
+        "description": "Los estudiantes mayores de edad son el porcentaje de los matriculados que son mayores que el rango de edad escolar oficial para la educación primaria."
+    },
+    "SE.PRM.OENR.MA.ZS": {
+        "title": "Estudiantes mayores de edad, primaria, varones (% de matriculación masculina)",
+        "description": "Los estudiantes mayores de edad son el porcentaje de los matriculados que son mayores que el rango de edad escolar oficial para la educación primaria."
+    },
+    "SE.PRM.OENR.FE.ZS": {
+        "title": "Estudiantes mayores de edad, primaria, mujeres (% de matrícula femenina)",
+        "description": "Los estudiantes mayores de edad son el porcentaje de los matriculados que son mayores que el rango de edad escolar oficial para la educación primaria."
+    },
+    "SE.PRM.NINT.ZS": {
+        "title": "Tasa neta de ingreso en el primer grado (% de la población oficial en edad escolar)",
+        "description": "La tasa neta de ingreso en el primer grado es el número de nuevos ingresados ​​en el primer grado de educación primaria que están en edad oficial de ingreso a la escuela primaria, expresado como porcentaje de la población de la edad correspondiente."
+    },
+    "SE.PRM.NINT.MA.ZS": {
+        "title": "Tasa neta de ingreso en el primer grado, hombres (% de la población oficial en edad escolar)",
+        "description": "La tasa neta de ingreso en el primer grado es el número de nuevos ingresados ​​en el primer grado de la educación primaria que se encuentran en la edad oficial de ingreso a la escuela primaria, expresado como porcentaje de la población de la edad correspondiente."
+    },
+    "SE.PRM.NINT.FE.ZS": {
+        "title": "Tasa neta de ingreso en el primer grado, mujeres (% de la población oficial en edad escolar)",
+        "description": "La tasa neta de ingreso en el primer grado es el número de nuevos ingresados ​​en el primer grado de la educación primaria que se encuentran en la edad oficial de ingreso a la escuela primaria, expresado como porcentaje de la población de la edad correspondiente."
+    },
+    "SE.PRM.NENR.MA": {
+        "title": "Matrícula escolar, primaria, hombres (% neto)",
+        "description": "La tasa neta de matriculación es la relación entre los niños en edad escolar oficial que están matriculados en la escuela y la población en edad escolar oficial correspondiente. La educación primaria proporciona a los niños habilidades básicas de lectura, escritura y matemáticas junto con una comprensión elemental de materias como historia, geografía, ciencias naturales, ciencias sociales, arte y música."
+    },
+    "SE.PRM.NENR.FE": {
+        "title": "Matrícula escolar, primaria, mujeres (% neto)",
+        "description": "La tasa neta de matriculación es la relación entre los niños en edad escolar oficial que están matriculados en la escuela y la población en edad escolar oficial correspondiente. La educación primaria proporciona a los niños habilidades básicas de lectura, escritura y matemáticas junto con una comprensión elemental de materias como historia, geografía, ciencias naturales, ciencias sociales, arte y música."
+    },
+    "SE.PRM.NENR": {
+        "title": "Matrícula escolar, primaria (% neto)",
+        "description": "La tasa neta de matriculación es la relación entre los niños en edad escolar oficial que están matriculados en la escuela y la población en edad escolar oficial correspondiente. La educación primaria proporciona a los niños habilidades básicas de lectura, escritura y matemáticas junto con una comprensión elemental de materias como historia, geografía, ciencias naturales, ciencias sociales, arte y música."
+    },
+    "SE.PRM.GINT.ZS": {
+        "title": "Tasa bruta de escolarización en primer grado de educación primaria, total (% del grupo de edad pertinente)",
+        "description": "La tasa bruta de admisión en el primer grado de educación primaria es el número de nuevos ingresados ​​en el primer grado de educación primaria independientemente de la edad, expresado como porcentaje de la población en edad oficial de ingreso a la escuela primaria."
+    },
+    "SE.PRM.GINT.MA.ZS": {
+        "title": "Tasa bruta de escolarización en primer grado de educación primaria, hombres (% del grupo de edad pertinente)",
+        "description": "La tasa bruta de escolarización en el primer grado de educación primaria es el número de nuevos ingresos en el primer grado de educación primaria independientemente de la edad, expresado como porcentaje de la población en edad oficial de ingreso a la escuela primaria."
+    },
+    "SE.PRM.GINT.FE.ZS": {
+        "title": "Tasa bruta de escolarización en primer grado de educación primaria, mujeres (% del grupo de edad pertinente)",
+        "description": "La tasa bruta de escolarización en el primer grado de educación primaria es el número de nuevos ingresos en el primer grado de educación primaria independientemente de la edad, expresado como porcentaje de la población en edad oficial de ingreso a la escuela primaria."
+    },
+    "SE.PRM.ENRR.MA": {
+        "title": "Matrícula escolar, primaria, hombres (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación primaria proporciona a los niños habilidades básicas de lectura, escritura y matemáticas junto con una comprensión elemental de materias como historia, geografía, ciencias naturales, ciencias sociales, arte y música."
+    },
+    "SE.PRM.ENRR.FE": {
+        "title": "Matrícula escolar, primaria, mujeres (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación primaria proporciona a los niños habilidades básicas de lectura, escritura y matemáticas junto con una comprensión elemental de materias como historia, geografía, ciencias naturales, ciencias sociales, arte y música."
+    },
+    "SE.PRM.ENRR": {
+        "title": "Matrícula escolar, primaria (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación primaria proporciona a los niños habilidades básicas de lectura, escritura y matemáticas junto con una comprensión elemental de materias como historia, geografía, ciencias naturales, ciencias sociales, arte y música."
+    },
+    "SE.PRM.ENRL.TC.ZS": {
+        "title": "Proporción alumno-maestro, primaria",
+        "description": "La proporción de alumnos por maestro en la escuela primaria es el número medio de alumnos por maestro en la escuela primaria."
+    },
+    "SE.PRM.ENRL.FE.ZS": {
+        "title": "Educación primaria, alumnos (% mujeres)",
+        "description": "Las alumnas como porcentaje del total de alumnos de la enseñanza primaria incluyen las matriculaciones en escuelas públicas y privadas."
+    },
+    "SE.PRM.ENRL": {
+        "title": "Educación primaria, alumnos",
+        "description": "Alumnos de educación primaria es el número total de alumnos matriculados en el nivel primario en escuelas públicas y privadas."
+    },
+    "SE.PRM.DURS": { "title": "Educación primaria, duración (años)", "description": "La duración de la primaria se refiere al número de grados (años) en la escuela primaria." },
+    "SE.PRM.CUAT.ZS": {
+        "title": "Nivel educativo, al menos primaria completa, población de más de 25 años, total (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que alcanzó o completó la educación primaria."
+    },
+    "SE.PRM.CUAT.MA.ZS": {
+        "title": "Nivel educativo, al menos primaria completa, población de más de 25 años, hombres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que alcanzó o completó la educación primaria."
+    },
+    "SE.PRM.CUAT.FE.ZS": {
+        "title": "Nivel educativo, al menos primaria completa, población de más de 25 años, mujeres (%) (acumulativo)",
+        "description": "El porcentaje de población de 25 años o más que alcanzó o completó la educación primaria."
+    },
+    "SE.PRM.CMPT.ZS": {
+        "title": "Tasa de finalización de la educación primaria, total (% del grupo de edad relevante)",
+        "description": "La tasa de finalización de la educación primaria, o la tasa bruta de admisión al último grado de educación primaria, es el número de nuevos ingresos (matrículas menos repetidores) en el último grado de educación primaria, independientemente de la edad, dividido por la población en edad de ingreso al último grado de educación primaria. Las limitaciones de los datos impiden realizar ajustes para los estudiantes que abandonan los estudios durante el último año de educación primaria."
+    },
+    "SE.PRM.CMPT.MA.ZS": {
+        "title": "Tasa de finalización de la primaria, hombres (% del grupo de edad relevante)",
+        "description": "La tasa de finalización de la educación primaria, o la tasa bruta de admisión al último grado de educación primaria, es el número de nuevos ingresos (matrículas menos repetidores) en el último grado de educación primaria, independientemente de la edad, dividido por la población en edad de ingreso al último grado de educación primaria. Las limitaciones de los datos impiden realizar ajustes para los estudiantes que abandonan los estudios durante el último año de educación primaria."
+    },
+    "SE.PRM.CMPT.FE.ZS": {
+        "title": "Tasa de finalización de la educación primaria, mujeres (% del grupo de edad pertinente)",
+        "description": "La tasa de finalización de la educación primaria, o la tasa bruta de admisión al último grado de educación primaria, es el número de nuevos ingresos (matrículas menos repetidores) en el último grado de educación primaria, independientemente de la edad, dividido por la población en edad de ingreso al último grado de educación primaria. Las limitaciones de los datos impiden realizar ajustes para los estudiantes que abandonan los estudios durante el último año de educación primaria."
+    },
+    "SE.PRM.AGES": {
+        "title": "Edad de inicio de la escuela primaria (años)",
+        "description": "La edad de inicio de la escuela primaria es la edad a la que los estudiantes ingresarían a la educación primaria, suponiendo que hayan comenzado a la edad oficial de ingreso al nivel educativo más bajo, hayan estudiado a tiempo completo y hayan progresado en el sistema sin repetir o saltarse un grado."
+    },
+    "SE.PRE.TCAQ.ZS": {
+        "title": "Docentes capacitados en educación preprimaria (% del total de docentes)",
+        "description": "Los docentes formados en educación preprimaria son el porcentaje de docentes de preprimaria que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.PRE.TCAQ.MA.ZS": {
+        "title": "Docentes formados en educación preprimaria, varones (% de docentes varones)",
+        "description": "Los docentes formados en educación preprimaria son el porcentaje de docentes de preprimaria que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.PRE.TCAQ.FE.ZS": {
+        "title": "Docentes capacitados en educación preprimaria, mujeres (% de maestras)",
+        "description": "Los docentes formados en educación preprimaria son el porcentaje de docentes de preprimaria que han recibido la formación docente organizada mínima (inicial o en servicio) necesaria para la enseñanza en un país determinado."
+    },
+    "SE.PRE.ENRR.MA": {
+        "title": "Matrícula escolar, preprimaria, hombres (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación preprimaria se refiere a los programas en la etapa inicial de la instrucción organizada, diseñados principalmente para introducir a los niños muy pequeños en un entorno de tipo escolar y para proporcionar un puente entre el hogar y la escuela."
+    },
+    "SE.PRE.ENRR.FE": {
+        "title": "Matrícula escolar, preprimaria, mujeres (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación preprimaria se refiere a los programas en la etapa inicial de la instrucción organizada, diseñados principalmente para introducir a los niños muy pequeños en un entorno de tipo escolar y para proporcionar un puente entre el hogar y la escuela."
+    },
+    "SE.PRE.ENRR": {
+        "title": "Matrícula escolar, preprimaria (% bruto)",
+        "description": "La tasa bruta de matrícula es la relación entre la matrícula total, independientemente de la edad, y la población del grupo de edad que oficialmente corresponde al nivel de educación indicado. La educación preprimaria se refiere a los programas en la etapa inicial de la instrucción organizada, diseñados principalmente para introducir a los niños muy pequeños en un entorno de tipo escolar y para proporcionar un puente entre el hogar y la escuela."
+    },
+    "SE.PRE.ENRL.TC.ZS": {
+        "title": "Proporción alumno-maestro, preprimaria",
+        "description": "La proporción de alumnos por maestro en la escuela preprimaria es el número promedio de alumnos por maestro en la escuela preprimaria."
+    },
+    "SE.PRE.DURS": { "title": "Educación preprimaria, duración (años)", "description": "La duración de la educación preprimaria se refiere al número de grados (años) en la escuela preprimaria." },
+    "SE.ENR.TERT.FM.ZS": {
+        "title": "Matrícula escolar, educación terciaria (bruta), índice de paridad de género (IPG)",
+        "description": "El índice de paridad de género para la tasa bruta de matriculación en la educación terciaria es la proporción de mujeres y hombres matriculados en el nivel terciario en escuelas públicas y privadas."
+    },
+    "SE.ENR.SECO.FM.ZS": {
+        "title": "Matrícula escolar, secundaria (bruta), índice de paridad de género (IPG)",
+        "description": "El índice de paridad de género para la tasa bruta de matriculación en la educación secundaria es la proporción de niñas y niños matriculados en el nivel secundario en escuelas públicas y privadas."
+    },
+    "SE.ENR.PRSC.FM.ZS": {
+        "title": "Matrícula escolar, primaria y secundaria (bruta), índice de paridad de género (IPG)",
+        "description": "El índice de paridad de género para la tasa bruta de matriculación en la educación primaria y secundaria es la proporción de niñas y niños matriculados en los niveles primario y secundario en escuelas públicas y privadas."
+    },
+    "SE.ENR.PRIM.FM.ZS": {
+        "title": "Matriculación escolar, primaria (bruta), índice de paridad de género (IPG)",
+        "description": "El índice de paridad de género para la tasa bruta de matriculación en la educación primaria es la proporción de niñas y niños matriculados en el nivel primario en escuelas públicas y privadas."
+    },
+    "SE.COM.DURS": {
+        "title": "Educación obligatoria, duración (años)",
+        "description": "La duración de la educación obligatoria es el número de años que los niños están obligados legalmente a asistir a la escuela."
+    },
+    "SE.ADT.LITR.ZS": {
+        "title": "Tasa de alfabetización, total de adultos (% de personas de 15 años o más)",
+        "description": "La tasa de alfabetización de adultos es el porcentaje de personas de 15 años o más que pueden leer y escribir entendiendo una declaración breve y sencilla sobre su vida cotidiana."
+    },
+    "SE.ADT.LITR.MA.ZS": {
+        "title": "Tasa de alfabetización, hombres adultos (% de hombres de 15 años o más)",
+        "description": "La tasa de alfabetización de adultos es el porcentaje de personas de 15 años o más que pueden leer y escribir entendiendo una declaración breve y sencilla sobre su vida cotidiana."
+    },
+    "SE.ADT.LITR.FE.ZS": {
+        "title": "Tasa de alfabetización, mujeres adultas (% de mujeres de 15 años o más)",
+        "description": "La tasa de alfabetización de adultos es el porcentaje de personas de 15 años o más que pueden leer y escribir entendiendo una declaración breve y sencilla sobre su vida cotidiana."
+    },
+    "SE.ADT.1524.LT.ZS": {
+        "title": "Tasa de alfabetización, total de jóvenes (% de personas de 15 a 24 años)",
+        "description": "La tasa de alfabetización de los jóvenes es el porcentaje de personas de entre 15 y 24 años que pueden leer y escribir entendiendo una declaración breve y sencilla sobre su vida cotidiana."
+    },
+    "SE.ADT.1524.LT.MA.ZS": {
+        "title": "Tasa de alfabetización, hombres jóvenes (% de hombres de 15 a 24 años)",
+        "description": "La tasa de alfabetización de los jóvenes es el porcentaje de personas de entre 15 y 24 años que pueden leer y escribir entendiendo una declaración breve y sencilla sobre su vida cotidiana."
+    },
+    "SE.ADT.1524.LT.FM.ZS": {
+        "title": "Tasa de alfabetización, jóvenes (de 15 a 24 años), índice de paridad de género (IPG)",
+        "description": "El índice de paridad de género para la tasa de alfabetización de los jóvenes es la proporción de mujeres y hombres de 15 a 24 años que pueden leer y escribir entendiendo una declaración breve y sencilla sobre su vida cotidiana."
+    },
+    "SE.ADT.1524.LT.FE.ZS": {
+        "title": "Tasa de alfabetización, mujeres jóvenes (% de mujeres de 15 a 24 años)",
+        "description": "La tasa de alfabetización de los jóvenes es el porcentaje de personas de entre 15 y 24 años que pueden leer y escribir entendiendo una declaración breve y sencilla sobre su vida cotidiana."
+    }
+}
