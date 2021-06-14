@@ -7,7 +7,7 @@ import * as path from 'path';
 export class AppService {
   getIndicators(): Indicator {
     const data = fs.readFileSync(
-      path.resolve(__dirname, '../resource/indicator.json'),
+      path.resolve(__dirname, '../resources/indicator.json'),
       'utf-8',
     );
     return JSON.parse(data);

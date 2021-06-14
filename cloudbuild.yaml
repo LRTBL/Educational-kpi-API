@@ -1,0 +1,9 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/lerietmall-302923/educational_kpi_api:$SHORT_SHA', '.']
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/lerietmall-302923/educational_kpi_api:$SHORT_SHA']
+- name: 'gcr.io/cloud-builders/gcloud'
+  args: ['run', 'deploy', 'educational-kpi-api', '--region=us-east1', '--platform=managed', '--image=gcr.io/lerietmall-302923/educational_kpi_api:$SHORT_SHA']
+
+     
